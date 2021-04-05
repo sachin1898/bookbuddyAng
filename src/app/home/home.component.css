@@ -28,3 +28,6 @@ a.card-title {
     max-height: 170px;
     padding-top: 10px;
 }
+.star-active {
+    color: #fbbc05;
+}
