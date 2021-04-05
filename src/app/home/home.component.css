@@ -1,0 +1,30 @@
+.card {
+    padding-bottom: 50px;
+    margin-bottom: 25px;
+}
+a.card-title {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.card-block {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.card-img-top {
+    max-width: 170px;
+    min-height: 170px;
+    max-height: 170px;
+    padding-top: 10px;
+}
